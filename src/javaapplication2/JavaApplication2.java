@@ -9,6 +9,7 @@ package javaapplication2;
  *
  * @author taruc
  */
+import java.util.*;
 public class JavaApplication2 {
 
     /**
@@ -16,6 +17,7 @@ public class JavaApplication2 {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+       System.out.print("Hello World");
     }
     
 }
