@@ -18,6 +18,9 @@ public class JavaApplication2 {
     public static void main(String[] args) {
         // TODO code application logic here
        System.out.print("Hello World");
+       System.out.print("hAPPY");
+       System.out.print("WORLD");
+       System.out.print("QWERTY");
     }
     
 }
